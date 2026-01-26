@@ -1,0 +1,15 @@
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.exe
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.deps.json
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.runtimeconfig.json
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.runtimeconfig.dev.json
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.dll
+E:\DEPI\CSharp\TasksSolution\TaskDay01\bin\Debug\net5.0\TaskDay01.pdb
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.AssemblyInfoInputs.cache
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.AssemblyInfo.cs
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.csproj.CoreCompileInputs.cache
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.dll
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\refint\TaskDay01.dll
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.pdb
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\TaskDay01.genruntimeconfig.cache
+E:\DEPI\CSharp\TasksSolution\TaskDay01\obj\Debug\net5.0\ref\TaskDay01.dll
