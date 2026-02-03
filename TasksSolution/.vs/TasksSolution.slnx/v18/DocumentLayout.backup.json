@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DEPI\\CSharp\\TasksSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7336F37F-F71E-4DF0-B5CC-ED332ABA9C5A}|TaskDay02\\TaskDay02.csproj|e:\\depi\\csharp\\taskssolution\\taskday02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7336F37F-F71E-4DF0-B5CC-ED332ABA9C5A}|TaskDay02\\TaskDay02.csproj|solutionrelative:taskday02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E36EB17D-4E4E-42F7-B442-45C340A37D5A}|TaskDay04\\TaskDay04.csproj|c:\\users\\hp\\depi\\taskssolution\\taskday04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36EB17D-4E4E-42F7-B442-45C340A37D5A}|TaskDay04\\TaskDay04.csproj|solutionrelative:taskday04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEPI\\CSharp\\Day02-attachment\\Day02-attachment\\Demos\\CsharpDay02Giza01Solution\\CsharpDay02Giza01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\b12c20f6-85d2-4acb-a618-de8dbd026204_Day04.zip.204\\Day04\\Demos\\CsharpDay04Giza02Solution\\CsharpDay04Giza02\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,32 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEPI\\CSharp\\TasksSolution\\TaskDay02\\Program.cs",
-              "RelativeDocumentMoniker": "TaskDay02\\Program.cs",
-              "ToolTip": "E:\\DEPI\\CSharp\\TasksSolution\\TaskDay02\\Program.cs",
-              "RelativeToolTip": "TaskDay02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T11:48:15.563Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEPI\\CSharp\\Day02-attachment\\Day02-attachment\\Demos\\CsharpDay02Giza01Solution\\CsharpDay02Giza01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day02-attachment\\Day02-attachment\\Demos\\CsharpDay02Giza01Solution\\CsharpDay02Giza01\\Program.cs",
-              "ToolTip": "E:\\DEPI\\CSharp\\Day02-attachment\\Day02-attachment\\Demos\\CsharpDay02Giza01Solution\\CsharpDay02Giza01\\Program.cs",
-              "RelativeToolTip": "..\\Day02-attachment\\Day02-attachment\\Demos\\CsharpDay02Giza01Solution\\CsharpDay02Giza01\\Program.cs",
-              "ViewState": "AgIAADoBAAAAAAAAAAAAAFYAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\b12c20f6-85d2-4acb-a618-de8dbd026204_Day04.zip.204\\Day04\\Demos\\CsharpDay04Giza02Solution\\CsharpDay04Giza02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\b12c20f6-85d2-4acb-a618-de8dbd026204_Day04.zip.204\\Day04\\Demos\\CsharpDay04Giza02Solution\\CsharpDay04Giza02\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\b12c20f6-85d2-4acb-a618-de8dbd026204_Day04.zip.204\\Day04\\Demos\\CsharpDay04Giza02Solution\\CsharpDay04Giza02\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\b12c20f6-85d2-4acb-a618-de8dbd026204_Day04.zip.204\\Day04\\Demos\\CsharpDay04Giza02Solution\\CsharpDay04Giza02\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T11:38:35.039Z",
+              "WhenOpened": "2026-02-03T20:32:08.795Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay04\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDay04\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay04\\Program.cs",
+              "RelativeToolTip": "TaskDay04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:12:24.347Z",
               "EditorCaption": ""
             }
           ]

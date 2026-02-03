@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="TaskDay01/TaskDay01.csproj" />
   <Project Path="TaskDay02/TaskDay02.csproj" />
+  <Project Path="TaskDay03/TaskDay03.csproj" Id="50ebb610-0fd7-4dce-9528-921dea342c40" />
+  <Project Path="TaskDay04/TaskDay04.csproj" Id="e36eb17d-4e4e-42f7-b442-45c340a37d5a" />
 </Solution>
