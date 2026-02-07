@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace TaskDay05
 {
@@ -340,30 +341,153 @@ namespace TaskDay05
 
             #region Problem13
 
-                //int sum1 = SumArray(10, 20, 30, 40);
-                //Console.WriteLine($"Sum of individual values (10, 20, 30, 40): {sum1}");
+            //int sum1 = SumArray(10, 20, 30, 40);
+            //Console.WriteLine($"Sum of individual values (10, 20, 30, 40): {sum1}");
 
-                //int[] myNumbers = { 5, 5, 5 };
-                //int sum2 = SumArray(myNumbers);
-                //Console.WriteLine($"Sum of an array {5,5, 5}: {sum2}");
+            //int[] myNumbers = { 5, 5, 5 };
+            //int sum2 = SumArray(myNumbers);
+            //Console.WriteLine($"Sum of an array {5,5, 5}: {sum2}");
 
-                //Console.WriteLine($"Sum of nothing: {SumArray()}");
+            //Console.WriteLine($"Sum of nothing: {SumArray()}");
 
-                //static int SumArray(params int[] numbers)
-                //{
-                //    int total = 0;
-                //    foreach (int n in numbers)
-                //    {
-                //        total += n;
-                //    }
-                //    return total;
-                //}
+            //static int SumArray(params int[] numbers)
+            //{
+            //    int total = 0;
+            //    foreach (int n in numbers)
+            //    {
+            //        total += n;
+            //    }
+            //    return total;
+            //}
 
             #endregion
 
             //Part2
 
-        }
+            #region Problem01
 
+            //Console.Write("Input: ");
+            //int n = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    Console.Write(i + (i == n ? "" : ", "));
+            //}
+
+            #endregion
+
+            #region Problem02
+
+            //Console.Write("Input: ");
+            //int num = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= 12; i++)
+            //{
+            //    Console.Write((num * i) + (i == 12 ? "" : ", "));
+            //}
+
+            #endregion
+
+            #region Problem03
+
+            //Console.Write("Input: ");
+            //int limit = int.Parse(Console.ReadLine());
+
+            //for (int i = 2; i <= limit; i += 2)
+            //{
+            //    Console.Write(i + (i >= limit - 1 ? "" : ", "));
+            //}
+
+            #endregion
+
+            #region Problem04
+
+            //Console.Write("Enter base: ");
+            //int b = int.Parse(Console.ReadLine());
+            //Console.Write("Enter exponent: ");
+            //int e = int.Parse(Console.ReadLine());
+
+            //long result = 1;
+            //for (int i = 0; i < e; i++)
+            //{
+            //    result *= b;
+            //}
+            //Console.WriteLine("Output: " + result);
+
+            #endregion
+
+            #region Problem05
+
+            //Console.Write("Input: ");
+            //string text = Console.ReadLine();
+
+            //for (int i = text.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write(text[i]);
+            //}
+
+            #endregion
+
+            #region Problem06
+
+            //Console.Write("Input: ");
+            //int val = int.Parse(Console.ReadLine());
+            //int reverse = 0;
+
+            //while (val > 0)
+            //{
+            //    reverse = (reverse * 10) + (val % 10);
+            //    val /= 10;
+            //}
+            //Console.WriteLine("Output: " + reverse);
+
+            #endregion
+
+            #region Problem07
+
+            //Console.Write("Enter array size: ");
+            //int size = int.Parse(Console.ReadLine());
+            //int[] arr = new int[size];
+
+            //for (int i = 0; i < size; i++)
+            //{
+            //    Console.Write($"Element {i}: ");
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //}
+
+            //int maxDist = 0;
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    for (int j = i + 1; j < arr.Length; j++)
+            //    {
+            //        if (arr[i] == arr[j])
+            //        {
+            //            int dist = j - i - 1;
+            //            if (dist > maxDist) maxDist = dist;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine("Longest distance: " + maxDist);
+
+            #endregion
+
+            #region Problem08
+
+                //Console.Write("Input: ");
+                //string sentence = Console.ReadLine();
+
+                //string[] words = sentence.Split(' ');
+
+                //string result = "";
+
+                //for (int i = words.Length - 1; i >= 0; i--)
+                //{
+                //    result += words[i] + " ";
+                //}
+
+                //Console.WriteLine(result.Trim());
+
+            #endregion
+        }
     }
 }
