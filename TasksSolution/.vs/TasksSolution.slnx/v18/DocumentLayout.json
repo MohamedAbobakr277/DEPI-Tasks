@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C77DCE06-3173-4B69-8EEB-11ADC5977500}|TaskDay05\\TaskDay05.csproj|c:\\users\\hp\\depi\\taskssolution\\taskday05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77DCE06-3173-4B69-8EEB-11ADC5977500}|TaskDay05\\TaskDay05.csproj|solutionrelative:taskday05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50EBB610-0FD7-4DCE-9528-921DEA342C40}|TaskDay03\\TaskDay03.csproj|c:\\users\\hp\\depi\\taskssolution\\taskday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBB610-0FD7-4DCE-9528-921DEA342C40}|TaskDay03\\TaskDay03.csproj|solutionrelative:taskday03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay05\\Program.cs",
-              "RelativeDocumentMoniker": "TaskDay05\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay05\\Program.cs",
-              "RelativeToolTip": "TaskDay05\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAgwOsBAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay03\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDay03\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay03\\Program.cs",
+              "RelativeToolTip": "TaskDay03\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwNIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T13:32:46.662Z",
+              "WhenOpened": "2026-02-10T06:01:08.364Z",
               "EditorCaption": ""
             }
           ]
