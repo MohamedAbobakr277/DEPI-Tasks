@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay05\\TaskDay05.csproj",
-      "projectName": "TaskDay05",
-      "projectPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay05\\TaskDay05.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay06\\TaskDay06.csproj",
+      "projectName": "TaskDay06",
+      "projectPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay06\\TaskDay06.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay05\\obj\\",
+      "outputPath": "C:\\Users\\HP\\DEPI\\TasksSolution\\TaskDay06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
