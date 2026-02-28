@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|c:\\users\\hp\\depi\\csharp project solution\\csharp project\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC0CEA7-8083-4CF2-A2D4-0D0E1D172F5A}|CSharp Project\\CSharp Project.csproj|solutionrelative:csharp project\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Question.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Question.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Question.cs",
+              "RelativeToolTip": "CSharp Project\\Question.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:33:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\TrueFalseQuestion.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "CSharp Project\\TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:03:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\ChooseOneQuestion.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "CSharp Project\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:04:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\ChooseAllQuestion.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "CSharp Project\\ChooseAllQuestion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:04:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\QuestionList.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\QuestionList.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\QuestionList.cs",
+              "RelativeToolTip": "CSharp Project\\QuestionList.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:43:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Answer.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Answer.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Answer.cs",
+              "RelativeToolTip": "CSharp Project\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:49:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Exam.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Exam.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Exam.cs",
+              "RelativeToolTip": "CSharp Project\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:51:09.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\PracticeExam.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\PracticeExam.cs",
+              "RelativeToolTip": "CSharp Project\\PracticeExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:00:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\FinalExam.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\FinalExam.cs",
+              "RelativeToolTip": "CSharp Project\\FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:00:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Subject.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Subject.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Subject.cs",
+              "RelativeToolTip": "CSharp Project\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:59:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Student.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Student.cs",
+              "RelativeToolTip": "CSharp Project\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:30:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp Project\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\Program.cs",
+              "RelativeToolTip": "CSharp Project\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:30:43.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
