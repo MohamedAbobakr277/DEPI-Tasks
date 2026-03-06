@@ -1,0 +1,16 @@
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.exe
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.deps.json
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.runtimeconfig.json
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.runtimeconfig.dev.json
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.dll
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\bin\Debug\net5.0\TaskDay10.pdb
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.AssemblyInfoInputs.cache
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.AssemblyInfo.cs
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.csproj.CoreCompileInputs.cache
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.sourcelink.json
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.dll
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\refint\TaskDay10.dll
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.pdb
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\TaskDay10.genruntimeconfig.cache
+C:\Users\HP\DEPI\TasksSolution\TaskDay10\obj\Debug\net5.0\ref\TaskDay10.dll
