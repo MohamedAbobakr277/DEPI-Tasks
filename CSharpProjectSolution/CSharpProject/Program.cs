@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CSharp_Project
 {
@@ -20,6 +20,26 @@ namespace CSharp_Project
                     practice.ExamStartingEvent += student.OnExamStarting;
                     final.ExamStartingEvent += student.OnExamStarting;
                 }
+
+                // Create sample questions
+                TrueFalseQuestion tfQ = new TrueFalseQuestion("Q1", "C# is an object-oriented programming language.", 5);
+                AnswerList tfAns = new AnswerList { new Answer(2, "true") };
+
+                ChooseOneQuestion coQ = new ChooseOneQuestion("Q2", "Which keyword is used to declare a class in C#?", 5, "method", "class", "void");
+                AnswerList coAns = new AnswerList { new Answer(2, "class") };
+
+                ChooseAllQuestion caQ = new ChooseAllQuestion("Q3", "Which of these are value types in C#?", 10, "int", "string", "bool", "object");
+                AnswerList caAns = new AnswerList { new Answer(1, "int"), new Answer(3, "bool") };
+
+                // Add questions to Practice Exam
+                practice.CorrectAnswers.Add(tfQ, tfAns);
+                practice.CorrectAnswers.Add(coQ, coAns);
+                practice.CorrectAnswers.Add(caQ, caAns);
+
+                // Add questions to Final Exam
+                final.CorrectAnswers.Add(tfQ, tfAns);
+                final.CorrectAnswers.Add(coQ, coAns);
+                final.CorrectAnswers.Add(caQ, caAns);
 
                 Console.WriteLine("Select Exam Type:\n1. Practice Exam\n2. Final Exam");
                 string choice = Console.ReadLine();

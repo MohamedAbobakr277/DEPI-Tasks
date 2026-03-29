@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\CSharpProject.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\DEPI\\CSharpProjectSolution\\CSharpProject\\CSharpProject.csproj",
       "projectName": "CSharpProject",
-      "projectPath": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\CSharpProject.csproj",
+      "projectPath": "C:\\Users\\HP\\DEPI\\CSharpProjectSolution\\CSharpProject\\CSharpProject.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\DEPI\\CSharp Project Solution\\CSharp Project\\obj\\",
+      "outputPath": "C:\\Users\\HP\\DEPI\\CSharpProjectSolution\\CSharpProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
