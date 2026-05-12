@@ -1,0 +1,45 @@
+@model EFCoreTask.Models.Student
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Student Identity - @Model.Name</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #f8f9fa; color: #343a40; }
+        .card { background-color: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto; }
+        h1 { margin-top: 0; color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
+        .detail-row { margin-bottom: 15px; font-size: 16px; border-bottom: 1px dashed #e9ecef; padding-bottom: 10px; }
+        .detail-label { font-weight: bold; width: 140px; display: inline-block; color: #6c757d; }
+        .back-link { display: inline-block; margin-top: 25px; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight:bold; }
+        .back-link:hover { background-color: #0056b3; }
+        .header-actions { float: right; }
+        .action-link { margin-left:10px; text-decoration:none; padding:5px 10px; border-radius:3px; color:white; font-size:14px; font-weight:bold;}
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="header-actions">
+           <a href="/Student/Edit/@Model.Id" class="action-link" style="background:#ffc107; color:black;">Edit</a>
+           <a href="/Student/Delete/@Model.Id" class="action-link" style="background:#dc3545;">Delete</a>
+        </div>
+        
+        <h1>Student Identification File</h1>
+        
+        <div class="detail-row" style="margin-top:20px;">
+            <span class="detail-label">Registry Number:</span> @Model.Id
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Full Name:</span> @Model.Name
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Age Index:</span> @Model.Age
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Faculty Group:</span> @(Model.Department?.Name ?? "Not Available")
+        </div>
+
+        <a href="/Student/GetAll" class="back-link">Return to Directory</a>
+    </div>
+</body>
+</html>

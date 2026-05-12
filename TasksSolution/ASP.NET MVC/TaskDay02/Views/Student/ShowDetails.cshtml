@@ -1,0 +1,57 @@
+@model EFCoreTask.Models.Student
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Student Details - @Model.Name</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #f8f9fa; color: #343a40; }
+        .card { background-color: #fff; padding: 25px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto; }
+        h1 { margin-top: 0; color: #007bff; }
+        .detail-row { margin-bottom: 15px; font-size: 16px; }
+        .detail-label { font-weight: bold; width: 120px; display: inline-block; color: #6c757d; }
+        .back-link { display: inline-block; margin-top: 20px; padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+        .back-link:hover { background-color: #0056b3; }
+        ul { list-style-type: none; padding: 0; }
+        li { background: #e9ecef; margin-bottom: 5px; padding: 8px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Student Details</h1>
+        
+        <div class="detail-row">
+            <span class="detail-label">ID:</span> @Model.Id
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Name:</span> @Model.Name
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Age:</span> @Model.Age
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Department:</span> @(Model.Department?.Name ?? "No Department Assigned")
+        </div>
+
+        <div class="detail-row" style="margin-top: 20px;">
+            <span class="detail-label" style="width: auto; margin-bottom: 10px; display: block;">Enrolled Courses:</span>
+            @if (Model.StuCrsRes != null && Model.StuCrsRes.Any())
+            {
+                <ul>
+                    @foreach (var result in Model.StuCrsRes)
+                    {
+                        <li><strong>@result.Course.Name</strong> - Grade: @result.Grade</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p style="color: #6c757d; font-style: italic; margin-top: 5px;">No courses enrolled yet.</p>
+            }
+        </div>
+
+        <a href="/student/ShowAll" class="back-link">Back to All Students</a>
+    </div>
+</body>
+</html>

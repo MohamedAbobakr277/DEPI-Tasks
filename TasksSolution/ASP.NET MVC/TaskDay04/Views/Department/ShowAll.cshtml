@@ -1,0 +1,55 @@
+@model IEnumerable<EFCoreTask.Models.Department>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>All Departments</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #f8f9fa; color: #343a40; }
+        h1 { border-bottom: 2px solid #28a745; padding-bottom: 10px; color: #28a745; }
+        .header-actions { margin-bottom: 20px; }
+        .btn { padding: 10px 15px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        .btn:hover { background-color: #218838; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #fff; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #28a745; color: white; }
+        tr:hover { background-color: #f1f1f1; }
+        a { color: #007bff; text-decoration: none; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>All Departments</h1>
+    
+    <div class="header-actions">
+        <a href="/Department/Add" class="btn">AddNew Department</a>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Manager</th>
+                <th>Students Count</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dept in Model)
+            {
+                <tr>
+                    <td>@dept.Id</td>
+                    <td>@dept.Name</td>
+                    <td>@dept.MgrName</td>
+                    <td>@(dept.Students?.Count ?? 0)</td>
+                    <td>
+                        <a href="/Department/ShowDetails?id=@dept.Id">View Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

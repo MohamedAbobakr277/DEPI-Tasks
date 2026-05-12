@@ -1,0 +1,50 @@
+@model EFCoreTask.Models.Student
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete Warning - @Model.Name</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #f8f9fa; color: #343a40; }
+        .warning-card { background-color: #fff; padding: 40px; border-radius: 8px; box-shadow: 0 4px 15px rgba(220,53,69,0.3); max-width: 550px; margin: 0 auto; border: 2px solid #dc3545; text-align: center; }
+        h1 { margin-top: 0; color: #dc3545; font-size: 32px; margin-bottom: 10px; }
+        .alert-text { font-size: 18px; color: #6c757d; margin-bottom: 30px; line-height: 1.5; }
+        .student-snapshot { background-color: #f1f3f5; padding: 20px; border-radius: 5px; text-align: left; margin-bottom: 30px; border-left: 5px solid #6c757d;}
+        .student-snapshot div { padding: 5px 0; font-size: 16px; }
+        .btn-confirm { padding: 14px 25px; background-color: #dc3545; color: white; border: none; border-radius: 5px; font-size: 16px; font-weight: bold; cursor: pointer; transition: opacity 0.2s; margin-right: 15px; }
+        .btn-confirm:hover { background-color: #c82333; }
+        .btn-cancel { padding: 14px 25px; background-color: #6c757d; color: white; border: none; border-radius: 5px; text-decoration:none; font-size: 16px; font-weight: bold; display: inline-block;}
+        .btn-cancel:hover { background-color: #5a6268; }
+        .actions-bar { margin-top: 30px; }
+    </style>
+</head>
+<body>
+
+    <div class="warning-card">
+        <h1>⚠️ Are You Sure?</h1>
+        <div class="alert-text">
+            You are about to perfectly purge a record. This action <strong>cannot</strong> be undone.
+        </div>
+
+        <div class="student-snapshot">
+            <div><strong>Registry ID:</strong> @Model.Id</div>
+            <div><strong>Name:</strong> @Model.Name</div>
+            <div><strong>Faculty:</strong> @(Model.Department?.Name ?? "Unassigned")</div>
+            <div><strong>Age:</strong> @Model.Age</div>
+        </div>
+
+        <div class="actions-bar">
+            <form asp-action="Delete" method="post" style="display:inline;">
+                @Html.AntiForgeryToken()
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn-confirm">Yes, Delete Permanently</button>
+            </form>
+            
+            <a asp-action="GetAll" class="btn-cancel">No, Go Back</a>
+        </div>
+    </div>
+
+</body>
+</html>
